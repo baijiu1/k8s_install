@@ -58,4 +58,4 @@ ca_dir放的是所有证书文件。
 cfg_dir放的是所有配置文件。
 flannel_network_dir为flannel配置文件。
 kube_data_dir为所有K8S组件的数据目录。
-修改all_nodes，etcd_names，kube_master，kube_nodes四个变量后，直接执行k8s_main_install.sh脚本即可。
+修改all_nodes，etcd_names，kube_master，kube_nodes四个变量后，直接执行k8s_main_install.sh脚本即可。 
